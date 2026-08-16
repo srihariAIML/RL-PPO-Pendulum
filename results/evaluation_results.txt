@@ -1,0 +1,20 @@
+Evaluation results from the completed PPO Pendulum-v1 run.
+
+Episode 01: return = -1148.81
+Episode 02: return = -1149.42
+Episode 03: return = -1229.21
+Episode 04: return = -1141.12
+Episode 05: return = -1279.83
+Episode 06: return = -1227.37
+Episode 07: return = -1196.65
+Episode 08: return = -1159.95
+Episode 09: return = -1158.31
+Episode 10: return = -1250.81
+
+Evaluation summary
+Mean return: -1194.15
+Std. deviation: 47.13
+Best return: -1141.12
+Worst return: -1279.83
+
+Interpretation: The agent showed moderate learning improvement, but performance remained variable and did not completely converge.
